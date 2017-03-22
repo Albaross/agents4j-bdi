@@ -1,2 +1,2 @@
-# agents4j-bdi
+# agents4j (bdi)
 Framework supporting easy yet powerful implementation of both very basic agents as well as agents with advanced mechanisms for reasoning and representation of knowledge.
