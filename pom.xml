@@ -4,7 +4,7 @@
 
 	<groupId>org.albaross</groupId>
 	<artifactId>agents4j-bdi</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.2.1-SNAPSHOT</version>
 	<name>agents4j (bdi)</name>
 	<description>Framework supporting easy yet powerful implementation of both very basic agents as well as agents with advanced mechanisms for reasoning and representation of knowledge.</description>
 
@@ -25,7 +25,7 @@
 		<dependency>
 			<groupId>org.albaross</groupId>
 			<artifactId>agents4j-core</artifactId>
-			<version>1.1.1-SNAPSHOT</version>
+			<version>1.2.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
